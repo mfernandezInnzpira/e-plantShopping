@@ -49,7 +49,9 @@ Once running, open your browser at:
 
 👉 http://localhost:4173
 
-📁 Project Structure
+## 📁 Project Structure
+
+```bash
 e-plantShopping/
 ├── public/              # Static assets
 ├── src/
@@ -59,6 +61,8 @@ e-plantShopping/
 │   └── main.jsx         # Application entry point
 ├── index.html
 └── package.json
+```
+
 🧠 Key Concepts Applied
 Component-based design
 Global state management with Redux
