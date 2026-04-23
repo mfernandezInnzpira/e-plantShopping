@@ -42,7 +42,7 @@ Run the Application
 # Start development server
 npm run dev
 
-# Preview production build
+# Or preview
 npm run preview
 
 Once running, open your browser at:
