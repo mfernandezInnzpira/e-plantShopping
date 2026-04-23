@@ -55,7 +55,6 @@ Once running, open your browser at:
 e-plantShopping/
 ├── public/              # Static assets
 ├── src/
-│   ├── components/      # Reusable UI components
 │   ├── store/           # Redux store configuration and slices
 │   ├── App.jsx          # Root component
 │   └── main.jsx         # Application entry point
