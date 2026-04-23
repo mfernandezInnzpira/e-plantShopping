@@ -27,7 +27,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/e-plantShopping.git
+git clone https://github.com/mfernandezInnzpira/e-plantShopping.git
 
 # Navigate into the project
 cd e-plantShopping
@@ -36,9 +36,9 @@ cd e-plantShopping
 npm install
 
 # Start the development server
-npm run dev
+npm run dev || npm run preview
 ```
 
-Open your browser and go to `http://localhost:5173` to view the app.
+Open your browser and go to `http://localhost:4173` to view the app.
 
 ## 📁 Project Structure
