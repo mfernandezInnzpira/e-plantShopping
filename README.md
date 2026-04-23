@@ -42,3 +42,13 @@ npm run dev || npm run preview
 Open your browser and go to `http://localhost:4173` to view the app.
 
 ## 📁 Project Structure
+e-plantShopping/
+├── public/
+├── src/
+│   ├── components/      # Reusable UI components
+│   ├── store/           # Redux store and slices
+│   ├── App.jsx          # Main application component
+│   └── main.jsx         # Entry point
+├── index.html
+└── package.json
+
